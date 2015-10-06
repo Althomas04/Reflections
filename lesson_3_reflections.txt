@@ -9,3 +9,8 @@ Forks - copies entire repository from one github account to another. Clones - co
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So people can work on it locally, as well as remotely. This will also make merging easier, since they both will have common ancestory. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Send files through dropbox or google drive. It automatically saves changes, but it'll be difficult to merge any branches and changes. Going back to commits with more than one files modified will also be difficult to track.
+
+
