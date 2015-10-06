@@ -7,3 +7,5 @@ To make it less confusing, as well as to make sure that you really want the chan
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks - copies entire repository from one github account to another. Clones - copies entire repository from github account to local git. Branches - commits that are separate from the master branch. 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So people can work on it locally, as well as remotely. This will also make merging easier, since they both will have common ancestory. 
