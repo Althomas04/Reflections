@@ -13,4 +13,7 @@ So people can work on it locally, as well as remotely. This will also make mergi
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Send files through dropbox or google drive. It automatically saves changes, but it'll be difficult to merge any branches and changes. Going back to commits with more than one files modified will also be difficult to track.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you're working on a separate feature individually, or collaboratively, (which can take a long time) but you also want to keep updating your master branch with bug fixes, performance boosts, etc. It'll be better to make changes in separate branch and then merge later in this case. 
+
 
